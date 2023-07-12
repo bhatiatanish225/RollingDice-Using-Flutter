@@ -1,6 +1,6 @@
 # Dice Rolling App 
 # Window
-![Window](https://github.com/bhatiatanish225/Python-Turtle-Graphics/blob/main/Screenshot%20(73).png)
+![Window](https://github.com/bhatiatanish225/RollingDice-Using-Flutter/blob/branchName/dice%20roll%20image.jpg)
 
 A new Flutter project.
 
